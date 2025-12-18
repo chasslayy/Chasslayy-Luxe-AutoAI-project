@@ -103,6 +103,9 @@ This project explicitly applies Responsible AI principles:
 
 
 ---
+You simply say:
+
+“Although IBM AutoAI was initially considered, model training and evaluation were conducted locally using scikit-learn due to access constraints. This approach allowed full transparency and control over model selection and evaluation metrics.”
 
 ## 📈 Key Takeaways
 
